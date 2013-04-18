@@ -1,0 +1,1 @@
+cmd_drivers/misc/compdev/built-in.o :=  /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/misc/compdev/built-in.o drivers/misc/compdev/compdev.o drivers/misc/compdev/compdev_util.o 

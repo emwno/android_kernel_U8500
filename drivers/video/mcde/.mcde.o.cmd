@@ -1,0 +1,1 @@
+cmd_drivers/video/mcde/mcde.o := /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/video/mcde/mcde.o drivers/video/mcde/mcde_mod.o drivers/video/mcde/mcde_hw.o drivers/video/mcde/mcde_dss.o drivers/video/mcde/mcde_display.o drivers/video/mcde/mcde_bus.o drivers/video/mcde/mcde_fb.o drivers/video/mcde/mcde_debugfs.o 

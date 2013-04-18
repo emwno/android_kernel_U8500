@@ -1,0 +1,1 @@
+cmd_net/compat-wireless/drivers/staging/cw1200/built-in.o :=  rm -f net/compat-wireless/drivers/staging/cw1200/built-in.o; /home/aashir/android/toolchain/linaro/bin/arm-eabi-ar rcsD net/compat-wireless/drivers/staging/cw1200/built-in.o

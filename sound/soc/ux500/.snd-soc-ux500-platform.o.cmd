@@ -1,0 +1,1 @@
+cmd_sound/soc/ux500/snd-soc-ux500-platform.o := /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o sound/soc/ux500/snd-soc-ux500-platform.o sound/soc/ux500/ux500_pcm.o sound/soc/ux500/ux500_msp_dai.o sound/soc/ux500/ux500_msp_i2s.o 

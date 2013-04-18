@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_wait_scan.ko := /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL -r  -T /home/aashir/android/2012/scripts/module-common.lds --build-id  -o drivers/scsi/scsi_wait_scan.ko drivers/scsi/scsi_wait_scan.o drivers/scsi/scsi_wait_scan.mod.o

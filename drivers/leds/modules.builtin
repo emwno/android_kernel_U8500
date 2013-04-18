@@ -1,0 +1,2 @@
+kernel/drivers/leds/leds-as3676_vendor.ko
+kernel/drivers/leds/ledtrig-timer.ko

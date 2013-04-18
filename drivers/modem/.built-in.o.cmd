@@ -1,0 +1,1 @@
+cmd_drivers/modem/built-in.o :=  /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/modem/built-in.o drivers/modem/modem_access.o drivers/modem/modem_u8500.o drivers/modem/shrm/built-in.o 

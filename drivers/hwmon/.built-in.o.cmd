@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/built-in.o :=  /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/hwmon/built-in.o drivers/hwmon/hwmon.o drivers/hwmon/abx500.o drivers/hwmon/ab8500.o drivers/hwmon/dbx500.o 

@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.o :=  /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o sound/soc/codecs/built-in.o sound/soc/codecs/snd-soc-ab5500.o sound/soc/codecs/snd-soc-ab8500_audio.o sound/soc/codecs/snd-soc-cg29xx.o 

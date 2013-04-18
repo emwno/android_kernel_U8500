@@ -1,0 +1,1 @@
+cmd_drivers/rmi4/built-in.o :=  /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/rmi4/built-in.o drivers/rmi4/rmi4_bus.o drivers/rmi4/rmi4_driver.o drivers/rmi4/rmi4_spi_adaptor.o drivers/rmi4/rmi4_function_01.o drivers/rmi4/rmi4_function_11.o drivers/rmi4/rmi4_function_34.o drivers/rmi4/rmi4_3250_e_suspend.o 

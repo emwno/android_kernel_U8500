@@ -1,0 +1,2 @@
+kernel/drivers/video/av8100/av8100.ko
+kernel/drivers/video/av8100/hdmi.ko

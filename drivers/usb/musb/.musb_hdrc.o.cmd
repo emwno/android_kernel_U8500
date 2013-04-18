@@ -1,0 +1,1 @@
+cmd_drivers/usb/musb/musb_hdrc.o := /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/usb/musb/musb_hdrc.o drivers/usb/musb/musb_core.o drivers/usb/musb/musb_gadget_ep0.o drivers/usb/musb/musb_gadget.o drivers/usb/musb/musb_virthub.o drivers/usb/musb/musb_host.o drivers/usb/musb/ux500_dma.o 

@@ -1,0 +1,7 @@
+kernel/drivers/rmi4/rmi4_bus.ko
+kernel/drivers/rmi4/rmi4_driver.ko
+kernel/drivers/rmi4/rmi4_spi_adaptor.ko
+kernel/drivers/rmi4/rmi4_function_01.ko
+kernel/drivers/rmi4/rmi4_function_11.ko
+kernel/drivers/rmi4/rmi4_function_34.ko
+kernel/drivers/rmi4/rmi4_3250_e_suspend.ko

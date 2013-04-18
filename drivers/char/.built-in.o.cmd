@@ -1,0 +1,1 @@
+cmd_drivers/char/built-in.o :=  /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/char/built-in.o drivers/char/mem.o drivers/char/random.o drivers/char/misc.o drivers/char/frandom/built-in.o drivers/char/shrm_char.o 

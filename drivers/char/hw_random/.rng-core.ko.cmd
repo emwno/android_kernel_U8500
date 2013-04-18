@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/rng-core.ko := /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL -r  -T /home/aashir/android/2012/scripts/module-common.lds --build-id  -o drivers/char/hw_random/rng-core.ko drivers/char/hw_random/rng-core.o drivers/char/hw_random/rng-core.mod.o

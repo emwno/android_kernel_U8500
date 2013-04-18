@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.o :=  /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o drivers/input/misc/built-in.o drivers/input/misc/ab8500-ponkey.o drivers/input/misc/uinput.o drivers/input/misc/lsm303dlh_mag.o drivers/input/misc/lsm303dlhc_acc_lt.o drivers/input/misc/simple_remote.o drivers/input/misc/apds9702.o 

@@ -1,0 +1,1 @@
+cmd_net/compat-wireless/drivers/staging/cw1200/cw1200_wlan.o := /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL    -r -o net/compat-wireless/drivers/staging/cw1200/cw1200_wlan.o net/compat-wireless/drivers/staging/cw1200/cw1200_sdio.o 

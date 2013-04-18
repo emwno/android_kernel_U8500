@@ -1,0 +1,1 @@
+cmd_arch/arm/oprofile/oprofile.ko := /home/aashir/android/toolchain/linaro/bin/arm-eabi-ld -EL -r  -T /home/aashir/android/2012/scripts/module-common.lds --build-id  -o arch/arm/oprofile/oprofile.ko arch/arm/oprofile/oprofile.o arch/arm/oprofile/oprofile.mod.o
